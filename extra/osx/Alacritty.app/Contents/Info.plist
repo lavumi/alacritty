@@ -23,7 +23,7 @@
   <key>CFBundleVersion</key>
   <string>1</string>
   <key>CFBundleIconFile</key>
-  <string>alacritty.icns</string>
+  <string>terminal.icns</string>
   <key>NSHighResolutionCapable</key>
   <true/>
   <key>NSMainNibFile</key>
@@ -31,7 +31,7 @@
   <key>NSSupportsAutomaticGraphicsSwitching</key>
   <true/>
   <key>CFBundleDisplayName</key>
-  <string>Alacritty</string>
+  <string>Terminal</string>
   <key>NSRequiresAquaSystemAppearance</key>
   <string>NO</string>
     <key>NSAppleEventsUsageDescription</key>
